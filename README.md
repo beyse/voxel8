@@ -1,5 +1,9 @@
-# stl-to-voxel
-Turn STL files into voxels, images, and videos
+# Voxel8
+A fast STL slicer written in C++.
+It turns STL files into voxels.
+
+Voxel8 is a fork of [cpederkoff/stl-to-voxel](https://github.com/cpederkoff/stl-to-voxel) with the goal of re-implementing the tool in C++ because speed matters!
+
 ## Main Features
 * Convert stl files into a voxel representation
 * Output to (a series of) .pngs, .xyz, .svx
