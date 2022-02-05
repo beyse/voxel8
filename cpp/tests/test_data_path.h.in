@@ -1,0 +1,8 @@
+#pragma once
+
+#include <string>
+
+/**
+ * @brief The path to the directory containing test data
+ */
+static const std::string testDataPath = "@TEST_DATA_DIR@";
