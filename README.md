@@ -9,6 +9,10 @@ Voxel8 is a fork of [cpederkoff/stl-to-voxel](https://github.com/cpederkoff/stl-
 * Output to (a series of) .pngs, .xyz, .svx
 * Command line interface
 
+## Repo Structure
+The original Python code was moved to the subfolder `python`.
+The newly implemented C++ code is located in the subfolder `cpp`.  
+
 ## How to run
 ### Run in command line
 ```
